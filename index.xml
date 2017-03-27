@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pirxthepilot</title>
+    <link>http://pirxthepilot.github.io/index.xml</link>
+    <description>Recent content on pirxthepilot</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://pirxthepilot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 11: DIY Eurorack</title>
+      <link>http://pirxthepilot.github.io/blog/2017/03/22/week-11-diy-eurorack/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pirxthepilot.github.io/blog/2017/03/22/week-11-diy-eurorack/</guid>
+      <description>&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://www.instagram.com/p/BR1uBP_FxQ0/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_blank&#34;&gt;A post shared by joon (@pirxthepilot)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2017-03-20T00:11:49+00:00&#34;&gt;Mar 19, 2017 at 5:11pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+
+&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;p&gt;Finally completed my &lt;a href=&#34;http://ornament-and-cri.me/&#34;&gt;&lt;strong&gt;Ornament &amp;amp; Crime&lt;/strong&gt;&lt;/a&gt; build and - suprise! - it works! I started this project half-expecting to fail. I’m very much inspired and encouraged by the result.
+&lt;img src=&#34;https://68.media.tumblr.com/e225e5fe87ddbf85613918942fc5f2ec/tumblr_inline_on7dnofxHx1sqvj59_540.jpg&#34; alt=&#34;image&#34;/&gt;&lt;img src=&#34;https://68.media.tumblr.com/4170bee950e70a83823cf6f95d2bf37e/tumblr_inline_on7dnwOqi51sqvj59_540.jpg&#34; alt=&#34;image&#34;/&gt;&lt;img src=&#34;https://68.media.tumblr.com/1ae0f5f6902d64fbc3a82c6271d51cba/tumblr_inline_on7dofpnqY1sqvj59_540.jpg&#34; alt=&#34;image&#34;/&gt;&lt;img src=&#34;https://68.media.tumblr.com/99d97fbd36b5d0890c090f57a1e64986/tumblr_inline_on7dom2dhv1sqvj59_540.jpg&#34; alt=&#34;image&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;In the same week, while waiting for the O_C’s teensy to arrive, I built a &lt;a href=&#34;http://www.frequencycentral.co.uk/?page_id=894&#34;&gt;Frequency Central Power&lt;/a&gt; as bench power supply for testing newly-built modules.
+&lt;img src=&#34;https://68.media.tumblr.com/eadae02de64599d57ef85ab254f0640d/tumblr_inline_on7dtjLhXH1sqvj59_540.jpg&#34; alt=&#34;image&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;I also bought a 20,000-count multimeter for more accurate voltage calibrations. How’s that for commitment?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 10: DIY Eurorack &#43; Track</title>
+      <link>http://pirxthepilot.github.io/blog/2017/03/14/week-10-diy-eurorack-&#43;-track/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pirxthepilot.github.io/blog/2017/03/14/week-10-diy-eurorack-&#43;-track/</guid>
+      <description>&lt;p&gt;Had a very productive week 10. First, started and completed the &lt;b&gt;&lt;a href=&#34;http://www.synthrotek.com/rnd-module-now-available/&#34;&gt;Synthrotek RND&lt;/a&gt;&lt;/b&gt; DIY module. It’s a relatively quick build - only took two days of a couple hours each day to finish.&lt;/p&gt;&lt;figure data-orig-width=&#34;1080&#34; data-orig-height=&#34;1080&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/2352f99b205a73f8d69467a9c907dbfa/tumblr_inline_omsb8k8Hut1sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;1080&#34; data-orig-height=&#34;1080&#34;/&gt;&lt;/figure&gt;&lt;figure data-orig-width=&#34;1280&#34; data-orig-height=&#34;960&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/e2763b2fba029cc0c16aba300aee2be4/tumblr_inline_omsahfnpB11sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;1280&#34; data-orig-height=&#34;960&#34;/&gt;&lt;/figure&gt;
+&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://www.instagram.com/p/BRgDKIDFrdp/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_blank&#34;&gt;A post shared by joon (@pirxthepilot)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2017-03-11T14:13:14+00:00&#34;&gt;Mar 11, 2017 at 6:13am PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;Next, spent some of the weekend making a simple modular + piano track for the &lt;b&gt;&lt;a href=&#34;http://disquiet.com/2017/03/09/junto-0271/&#34;&gt;271st Disquiet Junto&lt;/a&gt; &lt;/b&gt;to mark the 5th anniversary of Bassel Khartabil’s detention.&lt;br/&gt;&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/312005188&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 9: DIY Eurorack Module</title>
+      <link>http://pirxthepilot.github.io/blog/2017/03/06/week-9-diy-eurorack-module/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pirxthepilot.github.io/blog/2017/03/06/week-9-diy-eurorack-module/</guid>
+      <description>&lt;p&gt;Against wise advice, I went ahead and purchased PCB, panels and components for the DIY module &lt;b&gt;Ornament and Crime&lt;/b&gt; (&lt;a href=&#34;http://ornament-and-cri.me&#34;&gt;http://ornament-and-cri.me&lt;/a&gt;). The functionality of this module and the challenges involved is just too hard to resist. Not only is it my first modular DIY build, it is also my first involving surface mount components!&lt;/p&gt;&lt;p&gt;That took a bit of getting used to. At this point I am pretty OK with the 0805s, but still awkward with the chips and anything that has more than 2 legs. While my soldering job is quite ugly, I was quite lucky that there were no catastrophic mistakes.&lt;/p&gt;&lt;p&gt;I got a DIY bench power supply for Eurorack which I will use to test the voltages. So far I have already completed soldering the ICs and passives. I am also waiting for a few other components to arrive, namely the OLED and Teensy.&lt;/p&gt;&lt;figure data-orig-width=&#34;683&#34; data-orig-height=&#34;1024&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/9a9eb65f79ec4b716d421573c17d49a9/tumblr_inline_omdcbr6M7y1sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;683&#34; data-orig-height=&#34;1024&#34;/&gt;&lt;/figure&gt;&lt;figure data-orig-width=&#34;683&#34; data-orig-height=&#34;1024&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/50edf9f36e0d5666e637f05911127bde/tumblr_inline_omdcc0Onvn1sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;683&#34; data-orig-height=&#34;1024&#34;/&gt;&lt;/figure&gt;&lt;p&gt;Extra photo to highlight the single most terrifying soldering job of the build - the ultra-tiny DAC!&lt;/p&gt;&lt;figure data-orig-width=&#34;683&#34; data-orig-height=&#34;1024&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/8b8e96eb35a5171282e476514995d00b/tumblr_inline_omdcdiEKZi1sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;683&#34; data-orig-height=&#34;1024&#34;/&gt;&lt;/figure&gt;&lt;p&gt;
+
+While this project is on hold, I have started on a new one: the relatively simple &lt;a href=&#34;http://www.synthrotek.com/products/modular-circuits/rnd/&#34;&gt;&lt;b&gt;Synthrotek RND&lt;/b&gt;&lt;/a&gt;. More on that next week.
+
+&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 8: Modular Jam</title>
+      <link>http://pirxthepilot.github.io/blog/2017/02/28/week-8-modular-jam/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pirxthepilot.github.io/blog/2017/02/28/week-8-modular-jam/</guid>
+      <description>&lt;iframe src=&#34;https://player.vimeo.com/video/205845609&#34; width=&#34;640&#34; height=&#34;360&#34; allowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; webkitallowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/205845609&#34;&gt;Moonlit&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Second patch with the 208HP, this time trying my hand at ambient stuff. I started this patch about 2 weeks ago, but it’s undergone several iterations.&lt;/p&gt;&lt;p&gt;The star of this patch is Mutable Instruments’ Rings module, which generates fantastic ambient washes out of oscillators. This module is a keeper, for sure.&lt;/p&gt;&lt;p&gt;And here’s the audio version on soundcloud:&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309907936&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 7: DIY Digital Oscilloscope</title>
+      <link>http://pirxthepilot.github.io/blog/2017/02/20/week-7-diy-digital-oscilloscope/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pirxthepilot.github.io/blog/2017/02/20/week-7-diy-digital-oscilloscope/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://vimeo.com/204876467&#34;&gt;DIY Digital Oscilloscope (Timelapse)&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Finally managed to acquire the missing capacitor from a nearby Fry’s, so I was able to complete this kit project that I started a few weeks ago. This is a time lapse video from start to finish.&lt;/p&gt;&lt;p&gt;Finished product:&lt;/p&gt;&lt;figure data-orig-width=&#34;2609&#34; data-orig-height=&#34;2609&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/cbb450e3c06fe807e5e54f828940ca93/tumblr_inline_olocjqzWz11sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;2609&#34; data-orig-height=&#34;2609&#34;/&gt;&lt;/figure&gt;&lt;p&gt;Showing output from the Erica Synths Pico VCO as I scroll through the various waveforms:&lt;/p&gt;
+&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://www.instagram.com/p/BQpZLerFLwz/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_blank&#34;&gt;A post shared by joon (@pirxthepilot)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2017-02-18T08:47:26+00:00&#34;&gt;Feb 18, 2017 at 12:47am PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 6: Modular Jam</title>
+      <link>http://pirxthepilot.github.io/blog/2017/02/11/week-6-modular-jam/</link>
+      <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pirxthepilot.github.io/blog/2017/02/11/week-6-modular-jam/</guid>
+      <description>&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/203615999&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://vimeo.com/203615999&#34;&gt;Four&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This is the end result from the patch created during week 5, with some additional tweaks. It took me countless takes to arrive at something I am content (but not perfectly happy!) with. Recorded live, then post-processed (EQ, compressors, pseudo-mastering) in Ableton.&lt;/p&gt;&lt;p&gt;And here’s a “radio edit” version, with an additional bell layer track:&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307308603&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 5: Modular patch</title>
+      <link>http://pirxthepilot.github.io/blog/2017/02/07/week-5-modular-patch/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pirxthepilot.github.io/blog/2017/02/07/week-5-modular-patch/</guid>
+      <description>&lt;p&gt;Late post. Finally got my 208hp case last week, and this is the first patch that came out of the new configuration. I planned to finish with a jam at the end of last week, but I wasn’t satisfied with what I have recorded. I have also managed to add some more this morning: what was originally 4 voices has now grown to 5!&lt;/p&gt;&lt;p&gt;Decided to just take my time with this, and just let week 6 be the resulting jam/track.&lt;/p&gt;&lt;figure data-orig-width=&#34;4160&#34; data-orig-height=&#34;2340&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/b665b52891e9ee3f07d87f03250bf98f/tumblr_inline_ol0tkcx5SJ1sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;4160&#34; data-orig-height=&#34;2340&#34;/&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 4: DIY Digital Oscilloscope</title>
+      <link>http://pirxthepilot.github.io/blog/2017/01/30/week-4-diy-digital-oscilloscope/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pirxthepilot.github.io/blog/2017/01/30/week-4-diy-digital-oscilloscope/</guid>
+      <description>&lt;p&gt;
+
+Started work on the &lt;a href=&#34;https://www.amazon.com/gp/product/B01DBE4A70/ref=oh_aui_detailpage_o03_s00?ie=UTF8&amp;amp;psc=1&#34;&gt;KKmoon DSO138&lt;/a&gt; Digital Oscilloscope kit. More practice for future DIY modular synth modules.&lt;/p&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;1280&#34; data-orig-width=&#34;960&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/21eb5ba8f969b4f76513b382ec639235/tumblr_inline_okkukmb2481sqvj59_540.jpg&#34; data-orig-height=&#34;1280&#34; data-orig-width=&#34;960&#34;/&gt;&lt;/figure&gt;&lt;figure class=&#34;tmblr-full&#34; data-orig-height=&#34;960&#34; data-orig-width=&#34;1280&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/c2ce1a99c36d8cbada863530ddec8ef6/tumblr_inline_okkum7I5TG1sqvj59_540.jpg&#34; data-orig-height=&#34;960&#34; data-orig-width=&#34;1280&#34;/&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 3: Modular Jam &#43; DIY</title>
+      <link>http://pirxthepilot.github.io/blog/2017/01/23/week-3-modular-jam-&#43;-diy/</link>
+      <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pirxthepilot.github.io/blog/2017/01/23/week-3-modular-jam-&#43;-diy/</guid>
+      <description>&lt;iframe src=&#34;https://player.vimeo.com/video/200592749&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/200592749&#34;&gt;20170121&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This week’s thing is my most complete track on the modular synth. Also: DIY-built a Poti expander for the Xaoc Batumi, sort of as a practice for future projects. Big thanks to jwm from the muffwiggler forums for providing me with the acrylic panel and instructions.&lt;/p&gt;&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1280&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/446114faf00fd4e3d2541dc0ad2abc1e/tumblr_inline_ok8hycMdeT1sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1280&#34;/&gt;&lt;/figure&gt;&lt;figure data-orig-width=&#34;1280&#34; data-orig-height=&#34;720&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/95ed22dc18a550f10c8448dc7ada378c/tumblr_inline_ok8hyroAV41sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;1280&#34; data-orig-height=&#34;720&#34;/&gt;&lt;/figure&gt;&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1280&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/05145cfda314bcac5968b1165ef849d2/tumblr_inline_ok8hz3POiV1sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1280&#34;/&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 2: Modular Jam</title>
+      <link>http://pirxthepilot.github.io/blog/2017/01/14/week-2-modular-jam/</link>
+      <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pirxthepilot.github.io/blog/2017/01/14/week-2-modular-jam/</guid>
+      <description>&lt;iframe src=&#34;https://player.vimeo.com/video/199315662&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/199315662&#34;&gt;20170112 - &amp;ldquo;Sunday Bloody Sunday&amp;rdquo;&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week 1: Modular Jam</title>
+      <link>http://pirxthepilot.github.io/blog/2017/01/05/week-1-modular-jam/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://pirxthepilot.github.io/blog/2017/01/05/week-1-modular-jam/</guid>
+      <description>&lt;iframe src=&#34;https://player.vimeo.com/video/198190616&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://vimeo.com/198190616&#34;&gt;20170102&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Trying my hand at live modular performance. Very basic setup here: 3 voices, minimal modulations, simple sequencer changes.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
