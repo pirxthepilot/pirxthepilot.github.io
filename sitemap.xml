@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://pirxthepilot.github.io/blog/2017/03/week-12-diy-eurorack-this-blog/</loc>
+    <lastmod>2017-03-30T22:59:40-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pirxthepilot.github.io/blog/2017/03/week-11-diy-eurorack/</loc>
     <lastmod>2017-03-22T00:00:00+00:00</lastmod>
   </url>
@@ -58,13 +63,13 @@
   
   <url>
     <loc>https://pirxthepilot.github.io/post/</loc>
-    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-30T22:59:40-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pirxthepilot.github.io/</loc>
-    <lastmod>2017-03-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-30T22:59:40-05:00</lastmod>
     <priority>0</priority>
   </url>
   
