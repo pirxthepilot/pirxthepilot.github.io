@@ -114,8 +114,11 @@ While this project is on hold, I have started on a new one: the relatively simpl
       <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/02/week-8-modular-jam/</guid>
-      <description>&lt;iframe src=&#34;https://player.vimeo.com/video/205845609&#34; width=&#34;640&#34; height=&#34;360&#34; allowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; webkitallowfullscreen=&#34;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/205845609&#34;&gt;Moonlit&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Second patch with the 208HP, this time trying my hand at ambient stuff. I started this patch about 2 weeks ago, but it’s undergone several iterations.&lt;/p&gt;&lt;p&gt;The star of this patch is Mutable Instruments’ Rings module, which generates fantastic ambient washes out of oscillators. This module is a keeper, for sure.&lt;/p&gt;&lt;p&gt;And here’s the audio version on soundcloud:&lt;/p&gt;
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+	&lt;iframe src=&#34;https://player.vimeo.com/video/205845609&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Second patch with the 208HP, this time trying my hand at ambient stuff. I started this patch about 2 weeks ago, but it’s undergone several iterations.&lt;/p&gt;&lt;p&gt;The star of this patch is Mutable Instruments’ Rings module, which generates fantastic ambient washes out of oscillators. This module is a keeper, for sure.&lt;/p&gt;&lt;p&gt;And here’s the audio version on soundcloud:&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309907936&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
@@ -127,8 +130,10 @@ While this project is on hold, I have started on a new one: the relatively simpl
       
       <guid>https://pirxthepilot.github.io/blog/2017/02/week-7-diy-digital-oscilloscope/</guid>
       <description>&lt;p&gt;Finally managed to acquire the missing capacitor from a nearby Fry’s, so I was able to complete this kit project that I started a few weeks ago. This is a time lapse video from start to finish.&lt;/p&gt;
-&lt;iframe src=&#34;https://player.vimeo.com/video/204876467&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/204876467&#34;&gt;DIY Digital Oscilloscope (Timelapse)&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+	&lt;iframe src=&#34;https://player.vimeo.com/video/204876467&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;p&gt;Finished product:&lt;/p&gt;&lt;figure data-orig-width=&#34;2609&#34; data-orig-height=&#34;2609&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/cbb450e3c06fe807e5e54f828940ca93/tumblr_inline_olocjqzWz11sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;2609&#34; data-orig-height=&#34;2609&#34;/&gt;&lt;/figure&gt;&lt;p&gt;Showing output from the Erica Synths Pico VCO as I scroll through the various waveforms:&lt;/p&gt;
 &lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://www.instagram.com/p/BQpZLerFLwz/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_blank&#34;&gt;A post shared by joon (@pirxthepilot)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2017-02-18T08:47:26+00:00&#34;&gt;Feb 18, 2017 at 12:47am PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;
 </description>
@@ -140,8 +145,11 @@ While this project is on hold, I have started on a new one: the relatively simpl
       <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/02/week-6-modular-jam/</guid>
-      <description>&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/203615999&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
-&lt;/p&gt;&lt;p&gt;&lt;a href=&#34;https://vimeo.com/203615999&#34;&gt;Four&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;This is the end result from the patch created during week 5, with some additional tweaks. It took me countless takes to arrive at something I am content (but not perfectly happy!) with. Recorded live, then post-processed (EQ, compressors, pseudo-mastering) in Ableton.&lt;/p&gt;&lt;p&gt;And here’s a “radio edit” version, with an additional bell layer track:&lt;/p&gt;
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+	&lt;iframe src=&#34;https://player.vimeo.com/video/203615999&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This is the end result from the patch created during week 5, with some additional tweaks. It took me countless takes to arrive at something I am content (but not perfectly happy!) with. Recorded live, then post-processed (EQ, compressors, pseudo-mastering) in Ableton.&lt;/p&gt;&lt;p&gt;And here’s a “radio edit” version, with an additional bell layer track:&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307308603&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
@@ -174,8 +182,10 @@ Started work on the &lt;a href=&#34;https://www.amazon.com/gp/product/B01DBE4A70
       <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/01/week-3-modular-jam-diy/</guid>
-      <description>&lt;iframe src=&#34;https://player.vimeo.com/video/200592749&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/200592749&#34;&gt;20170121&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+	&lt;iframe src=&#34;https://player.vimeo.com/video/200592749&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;p&gt;This week’s thing is my most complete track on the modular synth. Also: DIY-built a Poti expander for the Xaoc Batumi, sort of as a practice for future projects. Big thanks to jwm from the muffwiggler forums for providing me with the acrylic panel and instructions.&lt;/p&gt;&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1280&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/446114faf00fd4e3d2541dc0ad2abc1e/tumblr_inline_ok8hycMdeT1sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1280&#34;/&gt;&lt;/figure&gt;&lt;figure data-orig-width=&#34;1280&#34; data-orig-height=&#34;720&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/95ed22dc18a550f10c8448dc7ada378c/tumblr_inline_ok8hyroAV41sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;1280&#34; data-orig-height=&#34;720&#34;/&gt;&lt;/figure&gt;&lt;figure data-orig-width=&#34;720&#34; data-orig-height=&#34;1280&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/05145cfda314bcac5968b1165ef849d2/tumblr_inline_ok8hz3POiV1sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;720&#34; data-orig-height=&#34;1280&#34;/&gt;&lt;/figure&gt;
 </description>
     </item>
@@ -186,7 +196,10 @@ Started work on the &lt;a href=&#34;https://www.amazon.com/gp/product/B01DBE4A70
       <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/01/week-2-modular-jam/</guid>
-      <description>&lt;iframe src=&#34;https://player.vimeo.com/video/199315662&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+	&lt;iframe src=&#34;https://player.vimeo.com/video/199315662&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;p&gt;&lt;a href=&#34;https://vimeo.com/199315662&#34;&gt;20170112 - &amp;ldquo;Sunday Bloody Sunday&amp;rdquo;&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -197,8 +210,10 @@ Started work on the &lt;a href=&#34;https://www.amazon.com/gp/product/B01DBE4A70
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/01/week-1-modular-jam/</guid>
-      <description>&lt;iframe src=&#34;https://player.vimeo.com/video/198190616&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://vimeo.com/198190616&#34;&gt;20170102&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+	&lt;iframe src=&#34;https://player.vimeo.com/video/198190616&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;p&gt;Trying my hand at live modular performance. Very basic setup here: 3 voices, minimal modulations, simple sequencer changes.&lt;/p&gt;
 </description>
     </item>
