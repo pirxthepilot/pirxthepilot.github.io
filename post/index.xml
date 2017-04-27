@@ -6,8 +6,28 @@
     <description>Recent content in Posts on pirxthepilot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Apr 2017 21:56:28 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2017 06:35:49 -0500</lastBuildDate>
     <atom:link href="https://pirxthepilot.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 16: Live Coding</title>
+      <link>https://pirxthepilot.github.io/blog/2017/04/week-16-live-coding/</link>
+      <pubDate>Thu, 27 Apr 2017 06:35:49 -0500</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/04/week-16-live-coding/</guid>
+      <description>&lt;p&gt;I was away on vacation most of last week and so could not do the usual weekly proclivities. So instead, I tried to learn some live coding with &lt;strong&gt;&lt;a href=&#34;https://tidalcycles.org/&#34;&gt;Tidal Cycles&lt;/a&gt;&lt;/strong&gt;. I meant record a tune out of it, but just did not have the time to complete one.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an attempt for an arpeggiated synth bit based on the &lt;strong&gt;&lt;a href=&#34;http://www.imdb.com/title/tt4574334/&#34;&gt;Stranger Things&lt;/a&gt;&lt;/strong&gt; theme:&lt;/p&gt;
+
+&lt;script src=&#34;//gist.github.com/pirxthepilot/d06e3295fbc42063ee08bf5db4df672f.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;And another, testing sampling capabilities:&lt;/p&gt;
+
+&lt;script src=&#34;//gist.github.com/pirxthepilot/fb0b42b637115ec7fa714de3170a5447.js&#34;&gt;&lt;/script&gt;
+
+&lt;p&gt;Live coding has opened up a lot of new avenues for me to explore. I&amp;rsquo;m ecstatic to have started learning it, and wish I&amp;rsquo;d have tried it much sooner. Looking forward to making more music with it!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week 15: Modular Patch</title>
@@ -239,20 +259,6 @@ Started work on the &lt;a href=&#34;https://www.amazon.com/gp/product/B01DBE4A70
 &lt;/div&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://vimeo.com/199315662&#34;&gt;20170112 - &amp;ldquo;Sunday Bloody Sunday&amp;rdquo;&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/modulogeek&#34;&gt;modulogeek&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Week 1: Modular Jam</title>
-      <link>https://pirxthepilot.github.io/blog/2017/01/week-1-modular-jam/</link>
-      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://pirxthepilot.github.io/blog/2017/01/week-1-modular-jam/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-	&lt;iframe src=&#34;https://player.vimeo.com/video/198190616&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Trying my hand at live modular performance. Very basic setup here: 3 voices, minimal modulations, simple sequencer changes.&lt;/p&gt;
 </description>
     </item>
     
