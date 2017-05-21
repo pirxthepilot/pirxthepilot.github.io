@@ -6,8 +6,30 @@
     <description>Recent content in Posts on pirxthepilot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2017 06:49:47 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 21 May 2017 08:53:17 -0500</lastBuildDate>
     <atom:link href="https://pirxthepilot.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 20: Coding</title>
+      <link>https://pirxthepilot.github.io/blog/2017/05/week-20-coding/</link>
+      <pubDate>Sun, 21 May 2017 08:53:17 -0500</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/05/week-20-coding/</guid>
+      <description>&lt;p&gt;Back to coding this last week, where I wrote Python code for a Ninjam/Slack chat bot:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/pirxthepilot/ninjam-slack-bot&#34;&gt;ninjam-slack-bot on github&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Monitors a Ninjam server and sends notifications to a Slack channel everytime someone logs in. Also reports the count and list of currently logged in users.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I used &lt;a href=&#34;http://errbot.io&#34;&gt;Errbot&lt;/a&gt; as the chat framework. It&amp;rsquo;s also my first project with Python 3!&lt;/p&gt;
+
+&lt;p&gt;I got to revisit the use of the &lt;code&gt;theading&lt;/code&gt; library, and learned several new things along the way, the most useful of which is &lt;code&gt;Queue()&lt;/code&gt; - indispensable as it provided a very convenient means for the Ninjam-side and Slack-side processes to send messages to each other.&lt;/p&gt;
+
+&lt;p&gt;For now, the bot is up and running in my otherwise-gathering-dust Raspberry Pi 3. I&amp;rsquo;ll have to find a more suitable server to host it in for the long term.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week 19: DIY, Jams</title>
@@ -274,16 +296,6 @@ While this project is on hold, I have started on a new one: the relatively simpl
 
 &lt;p&gt;This is the end result from the patch created during week 5, with some additional tweaks. It took me countless takes to arrive at something I am content (but not perfectly happy!) with. Recorded live, then post-processed (EQ, compressors, pseudo-mastering) in Ableton.&lt;/p&gt;&lt;p&gt;And here’s a “radio edit” version, with an additional bell layer track:&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307308603&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Week 5: Modular patch</title>
-      <link>https://pirxthepilot.github.io/blog/2017/02/week-5-modular-patch/</link>
-      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://pirxthepilot.github.io/blog/2017/02/week-5-modular-patch/</guid>
-      <description>&lt;p&gt;Late post. Finally got my 208hp case last week, and this is the first patch that came out of the new configuration. I planned to finish with a jam at the end of last week, but I wasn’t satisfied with what I have recorded. I have also managed to add some more this morning: what was originally 4 voices has now grown to 5!&lt;/p&gt;&lt;p&gt;Decided to just take my time with this, and just let week 6 be the resulting jam/track.&lt;/p&gt;&lt;figure data-orig-width=&#34;4160&#34; data-orig-height=&#34;2340&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/b665b52891e9ee3f07d87f03250bf98f/tumblr_inline_ol0tkcx5SJ1sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;4160&#34; data-orig-height=&#34;2340&#34;/&gt;&lt;/figure&gt;
 </description>
     </item>
     
