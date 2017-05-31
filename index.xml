@@ -6,8 +6,31 @@
     <description>Recent content on pirxthepilot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 May 2017 08:53:17 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2017 21:01:16 -0500</lastBuildDate>
     <atom:link href="https://pirxthepilot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 21: Live Scoring</title>
+      <link>https://pirxthepilot.github.io/blog/2017/05/week-21-live-scoring/</link>
+      <pubDate>Tue, 30 May 2017 21:01:16 -0500</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/05/week-21-live-scoring/</guid>
+      <description>&lt;p&gt;Not a significantly productive week last week compared with previous ones, but aside from a few modular patch attempts, I participated in a live scoring Ninjam session with my usual group last weekend. We scored Luis Buñuel and Salvador Dali&amp;rsquo;s &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Un_Chien_Andalou&#34;&gt;Un Chien Andalou&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt; (An Andalusian Dog), a surrealist short film from 1929.&lt;/p&gt;
+
+&lt;p&gt;I prepared my modular patch for this scoring work a few hours before the actual jam. I was going for some weird, dissonant atmospheric sounds that is very different from the sounds I usually aim for. Nevertheless, it was a very rewarding experience!&lt;/p&gt;
+
+&lt;p&gt;We did two takes, each sounding different from the other. Videos below.&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 15px;&#34;&gt;
+	&lt;iframe src=&#34;https://player.vimeo.com/video/219610709&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 15px;&#34;&gt;
+	&lt;iframe src=&#34;https://player.vimeo.com/video/219611859&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week 20: Coding</title>
@@ -281,21 +304,6 @@ While this project is on hold, I have started on a new one: the relatively simpl
 
 &lt;p&gt;Finished product:&lt;/p&gt;&lt;figure data-orig-width=&#34;2609&#34; data-orig-height=&#34;2609&#34; class=&#34;tmblr-full&#34;&gt;&lt;img src=&#34;https://68.media.tumblr.com/cbb450e3c06fe807e5e54f828940ca93/tumblr_inline_olocjqzWz11sqvj59_540.jpg&#34; alt=&#34;image&#34; data-orig-width=&#34;2609&#34; data-orig-height=&#34;2609&#34;/&gt;&lt;/figure&gt;&lt;p&gt;Showing output from the Erica Synths Pico VCO as I scroll through the various waveforms:&lt;/p&gt;
 &lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://www.instagram.com/p/BQpZLerFLwz/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_blank&#34;&gt;A post shared by joon (@pirxthepilot)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2017-02-18T08:47:26+00:00&#34;&gt;Feb 18, 2017 at 12:47am PST&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Week 6: Modular Jam</title>
-      <link>https://pirxthepilot.github.io/blog/2017/02/week-6-modular-jam/</link>
-      <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://pirxthepilot.github.io/blog/2017/02/week-6-modular-jam/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 15px;&#34;&gt;
-	&lt;iframe src=&#34;https://player.vimeo.com/video/203615999&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;This is the end result from the patch created during week 5, with some additional tweaks. It took me countless takes to arrive at something I am content (but not perfectly happy!) with. Recorded live, then post-processed (EQ, compressors, pseudo-mastering) in Ableton.&lt;/p&gt;&lt;p&gt;And here’s a “radio edit” version, with an additional bell layer track:&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307308603&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
