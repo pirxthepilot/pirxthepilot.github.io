@@ -6,8 +6,26 @@
     <description>Recent content on pirxthepilot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Jul 2017 08:11:49 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2017 16:57:52 -0500</lastBuildDate>
     <atom:link href="https://pirxthepilot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week 26: Modular Tracks</title>
+      <link>https://pirxthepilot.github.io/blog/2017/07/week-26-modular-tracks/</link>
+      <pubDate>Sat, 08 Jul 2017 16:57:52 -0500</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/07/week-26-modular-tracks/</guid>
+      <description>&lt;p&gt;Two tracks continuing the &lt;a href=&#34;https://soundcloud.com/modulogeek/sets/the-facebook-project&#34;&gt;Facebook project&lt;/a&gt;, with a video:&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 15px;&#34;&gt;
+	&lt;iframe src=&#34;https://player.vimeo.com/video/224002612&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331268474&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331268473&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Week 25: Modular Jam</title>
@@ -298,24 +316,6 @@
 &lt;p&gt;Also started last week: THIS NEW BLOG! I migrated from Tumblr to this one, made using &lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a static website content generator. I&amp;rsquo;d have to say, setting up this site went a lot easier than I expected. I&amp;rsquo;m pretty happy with the results! Gone are the limitations from Tumblr.&lt;/p&gt;
 
 &lt;p&gt;I am already writing this post in Markdown - it takes a bit longer to write Tumblr posts, but I imagine I&amp;rsquo;ll get faster as I memorize more markdown and shortcodes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Week 11: DIY Eurorack</title>
-      <link>https://pirxthepilot.github.io/blog/2017/03/week-11-diy-eurorack/</link>
-      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://pirxthepilot.github.io/blog/2017/03/week-11-diy-eurorack/</guid>
-      <description>&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;&lt;a href=&#34;https://www.instagram.com/p/BR1uBP_FxQ0/&#34; style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&#34; target=&#34;_blank&#34;&gt;A post shared by joon (@pirxthepilot)&lt;/a&gt; on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2017-03-20T00:11:49+00:00&#34;&gt;Mar 19, 2017 at 5:11pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-
-&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;p&gt;Finally completed my &lt;a href=&#34;http://ornament-and-cri.me/&#34;&gt;&lt;strong&gt;Ornament &amp;amp; Crime&lt;/strong&gt;&lt;/a&gt; build and - suprise! - it works! I started this project half-expecting to fail. I’m very much inspired and encouraged by the result.
-&lt;img src=&#34;https://68.media.tumblr.com/e225e5fe87ddbf85613918942fc5f2ec/tumblr_inline_on7dnofxHx1sqvj59_540.jpg&#34; alt=&#34;image&#34;/&gt;&lt;img src=&#34;https://68.media.tumblr.com/4170bee950e70a83823cf6f95d2bf37e/tumblr_inline_on7dnwOqi51sqvj59_540.jpg&#34; alt=&#34;image&#34;/&gt;&lt;img src=&#34;https://68.media.tumblr.com/1ae0f5f6902d64fbc3a82c6271d51cba/tumblr_inline_on7dofpnqY1sqvj59_540.jpg&#34; alt=&#34;image&#34;/&gt;&lt;img src=&#34;https://68.media.tumblr.com/99d97fbd36b5d0890c090f57a1e64986/tumblr_inline_on7dom2dhv1sqvj59_540.jpg&#34; alt=&#34;image&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;In the same week, while waiting for the O_C’s teensy to arrive, I built a &lt;a href=&#34;http://www.frequencycentral.co.uk/?page_id=894&#34;&gt;Frequency Central Power&lt;/a&gt; as bench power supply for testing newly-built modules.
-&lt;img src=&#34;https://68.media.tumblr.com/eadae02de64599d57ef85ab254f0640d/tumblr_inline_on7dtjLhXH1sqvj59_540.jpg&#34; alt=&#34;image&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;I also bought a 20,000-count multimeter for more accurate voltage calibrations. How’s that for commitment?&lt;/p&gt;
 </description>
     </item>
     
