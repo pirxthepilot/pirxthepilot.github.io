@@ -2,12 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pirxthepilot</title>
-    <link>https://pirxthepilot.github.io/index.xml</link>
+    <link>https://pirxthepilot.github.io/</link>
     <description>Recent content on pirxthepilot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Jul 2017 08:11:11 -0500</lastBuildDate>
-    <atom:link href="https://pirxthepilot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jul 2017 06:30:31 -0500</lastBuildDate>
+    
+	<atom:link href="https://pirxthepilot.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 28: DIY</title>
+      <link>https://pirxthepilot.github.io/blog/2017/07/week-28-diy/</link>
+      <pubDate>Sun, 23 Jul 2017 06:30:31 -0500</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/07/week-28-diy/</guid>
+      <description>Back to synth-making last week. This time, it&amp;rsquo;s a Minty Synth!
+ Back to synth building. This time, a mini-synth for my four year old.
+A post shared by joon (@pirxthepilot) on Jul 16, 2017 at 5:21am PDT
+   Soldering done.
+A post shared by joon (@pirxthepilot) on Jul 16, 2017 at 7:08am PDT
+   Mintysynth!
+A post shared by joon (@pirxthepilot) on Jul 16, 2017 at 8:47pm PDT</description>
+    </item>
     
     <item>
       <title>Week 27: Ninjam</title>
@@ -15,14 +32,8 @@
       <pubDate>Sat, 15 Jul 2017 08:11:11 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/07/week-27-ninjam/</guid>
-      <description>&lt;p&gt;Had an hour and forty minute-long ninjam online jam session with a friend. Result:&lt;/p&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//www.youtube.com/embed/P9MgPhAlLnE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-</description>
+      <description>Had an hour and forty minute-long ninjam online jam session with a friend. Result:
+  </description>
     </item>
     
     <item>
@@ -31,16 +42,8 @@
       <pubDate>Sat, 08 Jul 2017 16:57:52 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/07/week-26-modular-tracks/</guid>
-      <description>&lt;p&gt;Two tracks continuing the &lt;a href=&#34;https://soundcloud.com/modulogeek/sets/the-facebook-project&#34;&gt;Facebook project&lt;/a&gt;, with a video:&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 15px;&#34;&gt;
-	&lt;iframe src=&#34;https://player.vimeo.com/video/224002612&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331268474&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331268473&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description>Two tracks continuing the Facebook project, with a video:
+    </description>
     </item>
     
     <item>
@@ -49,14 +52,7 @@
       <pubDate>Sun, 02 Jul 2017 08:11:49 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/07/week-25-modular-jam/</guid>
-      <description>&lt;p&gt;A very late post, documenting last week&amp;rsquo;s music. This is track 4 of the Facebook project:&lt;/p&gt;
-
-&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 15px;&#34;&gt;
-	&lt;iframe src=&#34;https://player.vimeo.com/video/222922911&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329747619&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
+      <description>A very late post, documenting last week&amp;rsquo;s music. This is track 4 of the Facebook project:</description>
     </item>
     
     <item>
@@ -65,14 +61,9 @@
       <pubDate>Sat, 24 Jun 2017 06:54:03 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/06/week-24-modular-tracks/</guid>
-      <description>&lt;p&gt;Last week, I inadvertently started a longish ongoing project by posting on my Facebook timeline that I&amp;rsquo;d make a short piece of music to anyone who leaves a comment on the post. So far, 57 friends have done so.&lt;/p&gt;
-
-&lt;p&gt;I immediately started on it, and completed three tracks last week:&lt;/p&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329747624&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329747622&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/329747621&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description>Last week, I inadvertently started a longish ongoing project by posting on my Facebook timeline that I&amp;rsquo;d make a short piece of music to anyone who leaves a comment on the post. So far, 57 friends have done so.
+I immediately started on it, and completed three tracks last week:
+   </description>
     </item>
     
     <item>
@@ -81,21 +72,10 @@
       <pubDate>Wed, 14 Jun 2017 06:18:47 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/06/week-23-modular-jam/</guid>
-      <description>&lt;p&gt;I spent too much time working on this track. Exploring the new module, the &lt;a href=&#34;http://www.makenoisemusic.com/modules/morphagene&#34;&gt;Morphagene&lt;/a&gt;, took almost a week. The rest of the patch came together in a day or two, while several more days were spent pondering on the right take to use, mastering things, listening and re-listening.&lt;/p&gt;
-
-&lt;p&gt;Reminder: I shouldn&amp;rsquo;t spend too much time one one thing.&lt;/p&gt;
-
-&lt;p&gt;In any case, I am quite pleased with the results.&lt;/p&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 15px;&#34;&gt;
-	&lt;iframe src=&#34;https://player.vimeo.com/video/221412215&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Soundcloud:&lt;/p&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/327999195&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description>I spent too much time working on this track. Exploring the new module, the Morphagene, took almost a week. The rest of the patch came together in a day or two, while several more days were spent pondering on the right take to use, mastering things, listening and re-listening.
+Reminder: I shouldn&amp;rsquo;t spend too much time one one thing.
+In any case, I am quite pleased with the results.
+  Soundcloud:</description>
     </item>
     
     <item>
@@ -104,13 +84,7 @@
       <pubDate>Sun, 04 Jun 2017 08:40:00 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/06/week-22-modular-jam/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 15px;&#34;&gt;
-	&lt;iframe src=&#34;https://player.vimeo.com/video/220197611&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;I started this patch aiming for an ambient tune, but after too many changes (and lack of determination) I opted to focus on testing my newly-acquired sequencer as well. The result is a more traditional subtractive-synth syle jam.&lt;/p&gt;
-</description>
+      <description>I started this patch aiming for an ambient tune, but after too many changes (and lack of determination) I opted to focus on testing my newly-acquired sequencer as well. The result is a more traditional subtractive-synth syle jam.</description>
     </item>
     
     <item>
@@ -119,21 +93,8 @@
       <pubDate>Tue, 30 May 2017 21:01:16 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/05/week-21-live-scoring/</guid>
-      <description>&lt;p&gt;Not a significantly productive week last week compared with previous ones, but aside from a few modular patch attempts, I participated in a live scoring Ninjam session with my usual group last weekend. We scored Luis Buñuel and Salvador Dali&amp;rsquo;s &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Un_Chien_Andalou&#34;&gt;Un Chien Andalou&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt; (An Andalusian Dog), a surrealist short film from 1929.&lt;/p&gt;
-
-&lt;p&gt;I prepared my modular patch for this scoring work a few hours before the actual jam. I was going for some weird, dissonant atmospheric sounds that is very different from the sounds I usually aim for. Nevertheless, it was a very rewarding experience!&lt;/p&gt;
-
-&lt;p&gt;We did two takes, each sounding different from the other. Videos below.&lt;/p&gt;
-
-&lt;p&gt;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 15px;&#34;&gt;
-	&lt;iframe src=&#34;https://player.vimeo.com/video/219610709&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 15px;&#34;&gt;
-	&lt;iframe src=&#34;https://player.vimeo.com/video/219611859&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-</description>
+      <description>Not a significantly productive week last week compared with previous ones, but aside from a few modular patch attempts, I participated in a live scoring Ninjam session with my usual group last weekend. We scored Luis Buñuel and Salvador Dali&amp;rsquo;s Un Chien Andalou (An Andalusian Dog), a surrealist short film from 1929.
+I prepared my modular patch for this scoring work a few hours before the actual jam. I was going for some weird, dissonant atmospheric sounds that is very different from the sounds I usually aim for.</description>
     </item>
     
     <item>
@@ -142,20 +103,11 @@
       <pubDate>Sun, 21 May 2017 08:53:17 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/05/week-20-coding/</guid>
-      <description>&lt;p&gt;Back to coding this last week, where I wrote Python code for a Ninjam/Slack chat bot:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/pirxthepilot/ninjam-slack-bot&#34;&gt;ninjam-slack-bot on github&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Monitors a Ninjam server and sends notifications to a Slack channel everytime someone logs in. Also reports the count and list of currently logged in users.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I used &lt;a href=&#34;http://errbot.io&#34;&gt;Errbot&lt;/a&gt; as the chat framework. It&amp;rsquo;s also my first project with Python 3!&lt;/p&gt;
-
-&lt;p&gt;I got to revisit the use of the &lt;code&gt;threading&lt;/code&gt; library, and learned several new things along the way, the most useful of which is &lt;code&gt;Queue()&lt;/code&gt; - indispensable as it provided a very convenient means for the Ninjam-side and Slack-side processes to send messages to each other.&lt;/p&gt;
-
-&lt;p&gt;For now, the bot is up and running in my otherwise-gathering-dust Raspberry Pi 3. I&amp;rsquo;ll have to find a more suitable server to host it in for the long term.&lt;/p&gt;
-</description>
+      <description>Back to coding this last week, where I wrote Python code for a Ninjam/Slack chat bot:
+ninjam-slack-bot on github
+ Monitors a Ninjam server and sends notifications to a Slack channel everytime someone logs in. Also reports the count and list of currently logged in users.
+ I used Errbot as the chat framework. It&amp;rsquo;s also my first project with Python 3!
+I got to revisit the use of the threading library, and learned several new things along the way, the most useful of which is Queue() - indispensable as it provided a very convenient means for the Ninjam-side and Slack-side processes to send messages to each other.</description>
     </item>
     
     <item>
@@ -164,30 +116,11 @@
       <pubDate>Mon, 15 May 2017 06:49:47 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/05/week-19-diy-jams/</guid>
-      <description>
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://lh3.googleusercontent.com/Pr7a3gXiYVpOpLS4yjZJyLf5SZeh4FpCpjCylaItOktx3zfyMA2TAUQIPSD7pzIoUJL2Hhuo3IdcsBmcmQrSq-rnGX08aMYRrrNo2WKZePujIKVGa-7A9LT3LaoDKOtvp-AHx1g6dMsKcqYyuqUIskgTgFg5RE3qa8FqLG3Nwop5cFlcR-XxncnIgDepwVcDzMnZN0pKctffe98mnrTiXIn0YmxByuRPHATF0Q5nrwqRkDPzt9Z_MUVAkJn7Pmc3H1Yaex8gEJeg_JhGIsh6D0uqpOJ_8orqWFScOPpe3a9H3JB7hXG5E5zhulMnDYFt7Kg_i_I-zYcm-RSMFCd-md6tTvF7xY7-1G4nCs8vnFJcr0IIQEmKP8JGUOFSSJnhxAHvAqT09d6OBxJ2d2rEpyBRAC70kE0XXgxtvh52oIKUUD6gtZsg_-L34y5DdJnx33ybEP6Q3OSV8JRiaW9n-WH6CnudcHP2N8iqViuSCqf-aC38J-_tTJhQDAgwwgxU8s-Q7LFdZJHBgA-SgpWDqDkSNiGzJEvEOUoqg_DpkfxIJeS66YFmChR9mIhYuBoWJRc6LDAdPtuhfJ1dA5JDiCnqVnjzrKTAO4kzU_Vl3TPYhI8ds3N93vl7balNmBgOZ5-Hj2_C4bLwlmipGUuGcZhydyFQBjPlG1mAmcMT0g=w731-h974-no&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Last week, I started and completed building the &lt;a href=&#34;https://github.com/mxmxmx/temps_utile-/wiki/Temps-Utile&#34;&gt;Temps Utile&lt;/a&gt;. It was a quick and pleasant build - my second one involving surface-mount components, which I now enjoy soldering! To think that I was terrified of it a few months ago.&lt;/p&gt;
-
-&lt;p&gt;Some more photos:&lt;/p&gt;
-
-&lt;p&gt;&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BTymLRCFcbK/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;Starting a new project.&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;A post shared by joon (@pirxthepilot) on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2017-05-07T12:08:21+00:00&#34;&gt;May 7, 2017 at 5:08am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;
-&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BT4R5LsF83D/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;Think I&amp;#39;m getting the hang of soldering surface mount components. Still messy but I can work faster now!&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;A post shared by joon (@pirxthepilot) on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2017-05-09T17:06:34+00:00&#34;&gt;May 9, 2017 at 10:06am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;
-&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BUCsCTtFJEo/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;Uploading the firmware next.&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;A post shared by joon (@pirxthepilot) on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2017-05-13T18:07:24+00:00&#34;&gt;May 13, 2017 at 11:07am PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Also last week, joined another couple of Ninjam sessions with the regular Disquiet Junto group. This time we attempted playing &lt;strong&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/In_C&#34;&gt;Terry Riley&amp;rsquo;s &amp;ldquo;In C&amp;rdquo;&lt;/a&gt;&lt;/strong&gt;. The first jam was last Friday night which served as a rehearsal for the session yesterday afternoon, where there were a few more participants. Here is the result of the latter jam session:&lt;/p&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322732506&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description>Last week, I started and completed building the Temps Utile. It was a quick and pleasant build - my second one involving surface-mount components, which I now enjoy soldering! To think that I was terrified of it a few months ago.
+Some more photos:
+ Starting a new project.
+A post shared by joon (@pirxthepilot) on May 7, 2017 at 5:08am PDT
+   Think I&amp;#39;m getting the hang of soldering surface mount components.</description>
     </item>
     
     <item>
@@ -196,14 +129,8 @@
       <pubDate>Sat, 06 May 2017 19:16:56 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/05/week-18-track-modular-jams/</guid>
-      <description>&lt;p&gt;First, I started working on the  actual track for &amp;ldquo;Puzzle Girl&amp;rdquo; - the song I was patching the modular for the past couple of weeks. It&amp;rsquo;s far from finished, but I managed to record a lot, and layout a rough arrangement for the first half of the song. I think I&amp;rsquo;ll leave it at that state and just come back to it after a few weeks.&lt;/p&gt;
-
-&lt;p&gt;I also recorded a new version of my &lt;a href=&#34;https://vimeo.com/215450266&#34;&gt;modular jam from last week&lt;/a&gt;. After posting the video, I realized that one of the voices was out of tune! I almost let it go but just really wasn&amp;rsquo;t content, hence the new version. This version has a better arrangement, too. (Though, I did mess up a bit toward the end.)&lt;/p&gt;
-
-&lt;p&gt;Last night I hosted a &lt;strong&gt;&lt;a href=&#34;http://www.cockos.com/ninjam/&#34;&gt;Ninjam&lt;/a&gt;&lt;/strong&gt; jam, where I live-patched my modular (and played bass) with four other people from the &lt;strong&gt;&lt;a href=&#34;https://disquiet.com/&#34;&gt;Disquiet Junto&lt;/a&gt;&lt;/strong&gt; Slack group. The participants were playing from different parts of the US, and one from the UK. It was the first ever jam for the group, and everyone had great fun. As a testament to that, it lasted some 3 hours! I recorded the entire session, and one of the participants was kind enough to upload it to his Soundcloud:&lt;/p&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;166&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/321300985&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description>First, I started working on the actual track for &amp;ldquo;Puzzle Girl&amp;rdquo; - the song I was patching the modular for the past couple of weeks. It&amp;rsquo;s far from finished, but I managed to record a lot, and layout a rough arrangement for the first half of the song. I think I&amp;rsquo;ll leave it at that state and just come back to it after a few weeks.
+I also recorded a new version of my modular jam from last week.</description>
     </item>
     
     <item>
@@ -212,15 +139,8 @@
       <pubDate>Sun, 30 Apr 2017 19:16:20 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/04/week-17-modular-jam/</guid>
-      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 15px;&#34;&gt;
-	&lt;iframe src=&#34;https://player.vimeo.com/video/215450266&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; webkitallowfullscreen=&#34;&#34; mozallowfullscreen=&#34;&#34; allowfullscreen=&#34;&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Recorded a live jam of the patch I was working on from 2 weeks back. The main synth loops and bass are from the &lt;a href=&#34;http://madronalabs.com/products/aalto&#34;&gt;Aalto&lt;/a&gt; softsynth, and the rest are modular.&lt;/p&gt;
-
-&lt;p&gt;This set is a combination of hardware and loops in Ableton, so I had the idea of hooking up my trusty old Akai LPD8 so I can mute/unmute tracks. A lot of processing is also done in Ableton - some reverb, lots of compression.&lt;/p&gt;
-</description>
+      <description>Recorded a live jam of the patch I was working on from 2 weeks back. The main synth loops and bass are from the Aalto softsynth, and the rest are modular.
+This set is a combination of hardware and loops in Ableton, so I had the idea of hooking up my trusty old Akai LPD8 so I can mute/unmute tracks. A lot of processing is also done in Ableton - some reverb, lots of compression.</description>
     </item>
     
     <item>
@@ -229,18 +149,10 @@
       <pubDate>Thu, 27 Apr 2017 06:35:49 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/04/week-16-live-coding/</guid>
-      <description>&lt;p&gt;I was away on vacation most of last week and so could not do the usual weekly proclivities. So instead, I tried to learn some live coding with &lt;strong&gt;&lt;a href=&#34;https://tidalcycles.org/&#34;&gt;Tidal Cycles&lt;/a&gt;&lt;/strong&gt;. I meant record a tune out of it, but just did not have the time to complete one.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s an attempt for an arpeggiated synth bit based on the &lt;strong&gt;&lt;a href=&#34;http://www.imdb.com/title/tt4574334/&#34;&gt;Stranger Things&lt;/a&gt;&lt;/strong&gt; theme:&lt;/p&gt;
-
-&lt;script src=&#34;//gist.github.com/pirxthepilot/d06e3295fbc42063ee08bf5db4df672f.js&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;And another, testing sampling capabilities:&lt;/p&gt;
-
-&lt;script src=&#34;//gist.github.com/pirxthepilot/fb0b42b637115ec7fa714de3170a5447.js&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;Live coding has opened up a lot of new avenues for me to explore. I&amp;rsquo;m ecstatic to have started learning it, and wish I&amp;rsquo;d have tried it much sooner. Looking forward to making more music with it!&lt;/p&gt;
-</description>
+      <description>I was away on vacation most of last week and so could not do the usual weekly proclivities. So instead, I tried to learn some live coding with Tidal Cycles. I meant record a tune out of it, but just did not have the time to complete one.
+Here&amp;rsquo;s an attempt for an arpeggiated synth bit based on the Stranger Things theme:
+ And another, testing sampling capabilities:
+ Live coding has opened up a lot of new avenues for me to explore.</description>
     </item>
     
     <item>
@@ -249,11 +161,9 @@
       <pubDate>Mon, 17 Apr 2017 21:56:28 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/04/week-15-modular-patch/</guid>
-      <description>&lt;blockquote class=&#34;instagram-media&#34; data-instgrm-captioned data-instgrm-version=&#34;7&#34; style=&#34; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&#34;&gt;&lt;div style=&#34;padding:8px;&#34;&gt; &lt;div style=&#34; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&#34;&gt; &lt;div style=&#34; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&#34;&gt;&lt;/div&gt;&lt;/div&gt; &lt;p style=&#34; margin:8px 0 0 0; padding:0 4px;&#34;&gt; &lt;a href=&#34;https://www.instagram.com/p/BS9rfMiF_BW/&#34; style=&#34; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&#34; target=&#34;_blank&#34;&gt;Patch cabled out&lt;/a&gt;&lt;/p&gt; &lt;p style=&#34; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&#34;&gt;A post shared by joon (@pirxthepilot) on &lt;time style=&#34; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&#34; datetime=&#34;2017-04-16T22:55:01+00:00&#34;&gt;Apr 16, 2017 at 3:55pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async defer src=&#34;//platform.instagram.com/en_US/embeds.js&#34;&gt;&lt;/script&gt;
-
-&lt;p&gt;Not much to show except a short video of the patch I&amp;rsquo;ve been working on for the past week. It&amp;rsquo;s for a tune that I started more than two years ago, and now hope to finish with the help of the modular. It&amp;rsquo;s also the most dense patch I&amp;rsquo;ve made so far - so dense that all the VCA and attenuverted/offset channels have been used up!&lt;/p&gt;
-</description>
+      <description>Patch cabled out
+A post shared by joon (@pirxthepilot) on Apr 16, 2017 at 3:55pm PDT
+  Not much to show except a short video of the patch I&amp;rsquo;ve been working on for the past week. It&amp;rsquo;s for a tune that I started more than two years ago, and now hope to finish with the help of the modular. It&amp;rsquo;s also the most dense patch I&amp;rsquo;ve made so far - so dense that all the VCA and attenuverted/offset channels have been used up!</description>
     </item>
     
     <item>
@@ -262,23 +172,9 @@
       <pubDate>Sun, 09 Apr 2017 17:27:30 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/04/week-14-website-development/</guid>
-      <description>&lt;p&gt;After two long weeks, the production-ready &lt;strong&gt;&lt;a href=&#34;https://modulogeek.com&#34;&gt;modulogeek.com&lt;/a&gt;&lt;/strong&gt; website is complete!&lt;/p&gt;
-
-
-&lt;figure &gt;
-    &lt;a href=&#34;https://modulogeek.com&#34;&gt;
-        &lt;img src=&#34;https://lh3.googleusercontent.com/hfDxE8MkdQQq8cZRp_q9lgdqNmi0Bfvb6RsbrN1HXW1IprDyldXztyMFxeSROtPDIC6KQEYuYTsDkoKOkkH7Zi81KgwvcGeRluH7C_xEBg8lBAGny4gc0xIgI7KgZXrQBmyRxzQf--md6txcKHvTg2fmpjpl0Ac4T1yqNHs_cghz6HmPuUBfjG4mWffd6L8jbh8baIMORvcvdqQBo5t9d3mnxd6wgNPk4IR-6JI7s-iXI09iVHrMA_waPwB7EZeoyJQJMn7MFqasOkR73qQt20pTDLtI7kZ9pkzBosFC4h4YY7swihp8G1wsNheacOlnzyv7pYerhxOsM_LppPgF47gXwxyYhnLtp2Kk4rocx3QVBRU5uUKSsiGppm2VMHjRcd_GN1MqVWvv57L_F7LClTqf39z5hcIQt05EvksIx2818X73WuHv1xW6t0gJlUHEMRtWGXy6k3rXhq6uCvNMMsRaHhjYXLzNSEQJtaQL2s4rXGQRUZweOiWkR6Q6v5gfZ32nPjPT-EUkkierkaonTMtm1y9Vc3_ox42NQW_kWKfSO0gK8ufk3uMMgnUnxs4YDq1uPx1pgjfObsou1JhqhRkKlIiks31XqnY8e7W_ja_SYB3HGpznAw1Ef2lWqQ8jyn9j2h73M7wJlHqCRO3AvgNpru9J7nGsOC6C98_ZhQ=w1216-h974-no&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;This was created with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; and with the &lt;a href=&#34;https://themes.gohugo.io/creative/&#34;&gt;Creative theme&lt;/a&gt;. And a very big thanks to Google Chrome&amp;rsquo;s developer tools: it is quite a godsend. My work would have been magnitudes harder if not for this nifty invention!&lt;/p&gt;
-
-&lt;p&gt;The site is also hosted using what I call &amp;ldquo;future tech&amp;rdquo; (cos I am old and this new way of hosting is novel to me). It is now fully hosted under &lt;a href=&#34;https://aws.amazon.com&#34;&gt;Amazon Web Services&lt;/a&gt; (AWS), using &lt;a href=&#34;https://aws.amazon.com/s3&#34;&gt;S3&lt;/a&gt; as the storage for the files, &lt;a href=&#34;https://aws.amazon.com/cloudfront&#34;&gt;Cloudfront&lt;/a&gt; as the content delivery network (CDN), and &lt;a href=&#34;https://aws.amazon.com/route53&#34;&gt;Route 53&lt;/a&gt; for DNS hosting. I&amp;rsquo;ve just started using the AWS CLI to sync the files to S3, and I can see the huge scripting/automation potential of having all aspects of my AWS services controllable via this tool.&lt;/p&gt;
-
-&lt;p&gt;And, as is customary, I have put up the Hugo source on github: &lt;a href=&#34;https://github.com/pirxthepilot/hugo-modulogeek-com&#34;&gt;hugo-modulogeek-com&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>After two long weeks, the production-ready modulogeek.com website is complete!
+  This was created with Hugo and with the Creative theme. And a very big thanks to Google Chrome&amp;rsquo;s developer tools: it is quite a godsend. My work would have been magnitudes harder if not for this nifty invention!
+The site is also hosted using what I call &amp;ldquo;future tech&amp;rdquo; (cos I am old and this new way of hosting is novel to me).</description>
     </item>
     
     <item>
@@ -287,10 +183,133 @@
       <pubDate>Wed, 05 Apr 2017 18:46:25 -0500</pubDate>
       
       <guid>https://pirxthepilot.github.io/blog/2017/04/week-13-website-development/</guid>
-      <description>&lt;p&gt;Spent the entire last week (and this week as well, so far) making a totally new &lt;strong&gt;modulogeek.com&lt;/strong&gt; website. As with this blog, I am making it with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;, and basing it on the &lt;a href=&#34;https://github.com/digitalcraftsman/hugo-creative-theme&#34;&gt;Creative Theme&lt;/a&gt;. There isn&amp;rsquo;t much in the way of media or links to show, as the site is still in progress, and I haven&amp;rsquo;t put it online yet. Perhaps this week..&lt;/p&gt;
-
-&lt;p&gt;Making the new site has been more challenging than making this blog, which was mostly a straightforward theme with minimal customizations. The past week I have learned (more than I was willing to) more javascript, css, responsive, etc. etc. Can&amp;rsquo;t say I&amp;rsquo;m a fan of this kind of project, but I&amp;rsquo;m happy with the results. And, mercifully, it is far from the website design frustrations of the early 2000s. Thank you, progress!&lt;/p&gt;
-</description>
+      <description>Spent the entire last week (and this week as well, so far) making a totally new modulogeek.com website. As with this blog, I am making it with Hugo, and basing it on the Creative Theme. There isn&amp;rsquo;t much in the way of media or links to show, as the site is still in progress, and I haven&amp;rsquo;t put it online yet. Perhaps this week..
+Making the new site has been more challenging than making this blog, which was mostly a straightforward theme with minimal customizations.</description>
+    </item>
+    
+    <item>
+      <title>Week 12: DIY Eurorack, This Blog!</title>
+      <link>https://pirxthepilot.github.io/blog/2017/03/week-12-diy-eurorack-this-blog/</link>
+      <pubDate>Thu, 30 Mar 2017 22:59:40 -0500</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/03/week-12-diy-eurorack-this-blog/</guid>
+      <description>Last week, I started on and completed another DIY project: the Music Thing Chord Organ. It was a really nice, laid back, relaxing build - yeah, that&amp;rsquo;s right, I&amp;rsquo;ve come to a point where I find soldering stuff (the easy ones, at least) strangely comforting.
+   I got this kit from Thonk. I also like this shop because it has a good assortment of modular DIY parts. In fact, the jacks and knobs on my previous Ornament &amp;amp; Crime build were from Thonk.</description>
+    </item>
+    
+    <item>
+      <title>Week 11: DIY Eurorack</title>
+      <link>https://pirxthepilot.github.io/blog/2017/03/week-11-diy-eurorack/</link>
+      <pubDate>Wed, 22 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/03/week-11-diy-eurorack/</guid>
+      <description>A post shared by joon (@pirxthepilot) on Mar 19, 2017 at 5:11pm PDT
+ Finally completed my Ornament &amp;amp; Crime build and - suprise! - it works! I started this project half-expecting to fail. I’m very much inspired and encouraged by the result. In the same week, while waiting for the O_C’s teensy to arrive, I built a Frequency Central Power as bench power supply for testing newly-built modules. I also bought a 20,000-count multimeter for more accurate voltage calibrations.</description>
+    </item>
+    
+    <item>
+      <title>Week 10: DIY Eurorack, Track</title>
+      <link>https://pirxthepilot.github.io/blog/2017/03/week-10-diy-eurorack-track/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/03/week-10-diy-eurorack-track/</guid>
+      <description>Had a very productive week 10. First, started and completed the Synthrotek RND DIY module. It’s a relatively quick build - only took two days of a couple hours each day to finish.
+ A post shared by joon (@pirxthepilot) on Mar 11, 2017 at 6:13am PST
+  Next, spent some of the weekend making a simple modular + piano track for the 271st Disquiet Junto to mark the 5th anniversary of Bassel Khartabil’s detention.</description>
+    </item>
+    
+    <item>
+      <title>Week 9: DIY Eurorack Module</title>
+      <link>https://pirxthepilot.github.io/blog/2017/03/week-9-diy-eurorack-module/</link>
+      <pubDate>Mon, 06 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/03/week-9-diy-eurorack-module/</guid>
+      <description>Against wise advice, I went ahead and purchased PCB, panels and components for the DIY module Ornament and Crime (http://ornament-and-cri.me). The functionality of this module and the challenges involved is just too hard to resist. Not only is it my first modular DIY build, it is also my first involving surface mount components!
+That took a bit of getting used to. At this point I am pretty OK with the 0805s, but still awkward with the chips and anything that has more than 2 legs.</description>
+    </item>
+    
+    <item>
+      <title>Week 8: Modular Jam</title>
+      <link>https://pirxthepilot.github.io/blog/2017/02/week-8-modular-jam/</link>
+      <pubDate>Tue, 28 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/02/week-8-modular-jam/</guid>
+      <description>  Second patch with the 208HP, this time trying my hand at ambient stuff. I started this patch about 2 weeks ago, but it’s undergone several iterations.
+The star of this patch is Mutable Instruments’ Rings module, which generates fantastic ambient washes out of oscillators. This module is a keeper, for sure.
+And here’s the audio version on soundcloud:
+ </description>
+    </item>
+    
+    <item>
+      <title>Week 7: DIY Digital Oscilloscope</title>
+      <link>https://pirxthepilot.github.io/blog/2017/02/week-7-diy-digital-oscilloscope/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/02/week-7-diy-digital-oscilloscope/</guid>
+      <description>Finally managed to acquire the missing capacitor from a nearby Fry’s, so I was able to complete this kit project that I started a few weeks ago. This is a time lapse video from start to finish.
+  Finished product:
+Showing output from the Erica Synths Pico VCO as I scroll through the various waveforms:
+A post shared by joon (@pirxthepilot) on Feb 18, 2017 at 12:47am PST
+  </description>
+    </item>
+    
+    <item>
+      <title>Week 6: Modular Jam</title>
+      <link>https://pirxthepilot.github.io/blog/2017/02/week-6-modular-jam/</link>
+      <pubDate>Sat, 11 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/02/week-6-modular-jam/</guid>
+      <description>  This is the end result from the patch created during week 5, with some additional tweaks. It took me countless takes to arrive at something I am content (but not perfectly happy!) with. Recorded live, then post-processed (EQ, compressors, pseudo-mastering) in Ableton.
+And here’s a “radio edit” version, with an additional bell layer track:
+ </description>
+    </item>
+    
+    <item>
+      <title>Week 5: Modular patch</title>
+      <link>https://pirxthepilot.github.io/blog/2017/02/week-5-modular-patch/</link>
+      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/02/week-5-modular-patch/</guid>
+      <description>Late post. Finally got my 208hp case last week, and this is the first patch that came out of the new configuration. I planned to finish with a jam at the end of last week, but I wasn’t satisfied with what I have recorded. I have also managed to add some more this morning: what was originally 4 voices has now grown to 5!
+Decided to just take my time with this, and just let week 6 be the resulting jam/track.</description>
+    </item>
+    
+    <item>
+      <title>Week 4: DIY Digital Oscilloscope</title>
+      <link>https://pirxthepilot.github.io/blog/2017/01/week-4-diy-digital-oscilloscope/</link>
+      <pubDate>Mon, 30 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/01/week-4-diy-digital-oscilloscope/</guid>
+      <description> Started work on the KKmoon DSO138 Digital Oscilloscope kit. More practice for future DIY modular synth modules.
+ </description>
+    </item>
+    
+    <item>
+      <title>Week 3: Modular Jam, DIY</title>
+      <link>https://pirxthepilot.github.io/blog/2017/01/week-3-modular-jam-diy/</link>
+      <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/01/week-3-modular-jam-diy/</guid>
+      <description>  This week’s thing is my most complete track on the modular synth. Also: DIY-built a Poti expander for the Xaoc Batumi, sort of as a practice for future projects. Big thanks to jwm from the muffwiggler forums for providing me with the acrylic panel and instructions.
+ </description>
+    </item>
+    
+    <item>
+      <title>Week 2: Modular Jam</title>
+      <link>https://pirxthepilot.github.io/blog/2017/01/week-2-modular-jam/</link>
+      <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/01/week-2-modular-jam/</guid>
+      <description>20170112 - &amp;ldquo;Sunday Bloody Sunday&amp;rdquo; from modulogeek on Vimeo.</description>
+    </item>
+    
+    <item>
+      <title>Week 1: Modular Jam</title>
+      <link>https://pirxthepilot.github.io/blog/2017/01/week-1-modular-jam/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://pirxthepilot.github.io/blog/2017/01/week-1-modular-jam/</guid>
+      <description>Trying my hand at live modular performance. Very basic setup here: 3 voices, minimal modulations, simple sequencer changes.</description>
     </item>
     
   </channel>
